@@ -4,4 +4,4 @@ A project to build an app where you can upload documents, ask questions about th
 
 ## Architecture
 
-![mini-RAG architecture](assets/mini-rag-architecture.png)
+<img src="assets/mini-rag-architecture.png" alt="mini-RAG architecture" width="400">
